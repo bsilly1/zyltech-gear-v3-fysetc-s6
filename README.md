@@ -10,4 +10,4 @@ linear rails on xy.
 
 sensorless homing.
 
-crowsnest camera configuration
+crowsnest camera configuration.
