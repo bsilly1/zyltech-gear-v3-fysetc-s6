@@ -1,6 +1,8 @@
 # zyltech-gear-v3-fysetc-s6
 
-fysetc s6 (klipper with mainsail). (tmc2209 drivers)
+fysetc s6 (klipper with mainsail). 
+
+tmc2209 drivers.
 
 superpinda probe. 
 
