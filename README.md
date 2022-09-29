@@ -8,9 +8,9 @@ tmc2209 drivers.
 
 superpinda probe. 
 
-biqu h2 dd.
+biqu h2 dd on biqu standard hermit crab.
 
-independent dual z
+independent dual z.
 
 linear rails on xy.
 
