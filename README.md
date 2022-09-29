@@ -10,6 +10,8 @@ superpinda probe.
 
 biqu h2 dd.
 
+independent dual z
+
 linear rails on xy.
 
 sensorless homing.
