@@ -12,7 +12,7 @@ biqu h2 dd on biqu standard hermit crab.
 
 independent dual z.
 
-linear rails on xy.
+linear rails on xyz.
 
 sensorless homing.
 
