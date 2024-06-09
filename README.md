@@ -1,3 +1,5 @@
+OUTDATED AND REBUILT AS A COREXY 
+
 # zyltech-gear-v3-fysetc-s6.
 
 fysetc s6.
